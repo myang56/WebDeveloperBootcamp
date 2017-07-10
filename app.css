@@ -1,0 +1,21 @@
+h1{
+	color:rgb(240,0,21);
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 2px solid rgb(255,100,80);
+}
+li{
+	color:rgb(0,0,0);
+}
+
+h4{
+
+}
+
+body{
+
+	/*background: url(http://geology.com/world/world-map.gif);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
